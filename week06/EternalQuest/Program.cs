@@ -1,3 +1,4 @@
+/* I added the NegativeGoal class, which means that if the action is completed we lose points.*/
 using System;
 
 class Program
